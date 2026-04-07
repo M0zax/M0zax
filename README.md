@@ -34,6 +34,7 @@ Features servo calibration, motion playback with step indicators, press-and-hold
 
 ### 🧠 BrainBot
 An interactive trivia game system designed with ADHD students in mind. Built around an ESP32 with physical arcade buttons, LED rings, an LCD display, and SD card storage. Includes two custom web interfaces — a Question Manager for educators and a Game Controller for running sessions — making learning more engaging for students who struggle with traditional methods.
+[View on GitHub →](https://github.com/M0zax/BrainBot)
 > `ESP32` · `Arduino` · `C++` · `HTML/CSS/JS` · `Web Interface`
 
 ### 🛒 Masam Store
