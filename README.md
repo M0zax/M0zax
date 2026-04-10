@@ -41,6 +41,12 @@ An interactive trivia game system designed with ADHD students in mind. Built aro
 Full-stack e-commerce platform (senior project). Multi-role system with customer, manager, and accountant interfaces. Includes inventory management, payment processing, and customer account management.
 > `PHP` · `HTML/CSS/JS` · `MySQL`
 
+### 🎮 Game Library Tracker
+A Windows desktop app for cataloging your game collection. Features email verification, cover art upload, social profile browsing, and an admin dashboard.
+> `C#` · `.NET Framework` · `WinForms` · `SQL Server` · `Gmail SMTP`
+
+[View on GitHub →](https://github.com/M0zax/GameLibraryTracker-WinForms)
+
 ---
 
 ## 📫 Get in Touch
