@@ -39,6 +39,7 @@ An interactive trivia game system designed with ADHD students in mind. Built aro
 
 ### 🛒 Masam Store
 Full-stack e-commerce platform (senior project). Multi-role system with customer, manager, and accountant interfaces. Includes inventory management, payment processing, and customer account management.
+[View on GitHub →](https://github.com/M0zax/Masam-Store)
 > `PHP` · `HTML/CSS/JS` · `MySQL`
 
 ### 🎮 Game Library Tracker
